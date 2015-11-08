@@ -23,7 +23,7 @@ class User: NSObject {
 class Trainer: User {
     var level: String
     
-    init(name: String, password: String, level: String) {
+    init(name: String, password: String, level: String, age: String) {
         self.level = level
         super.init(name: name, password: password);
     }
