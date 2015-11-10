@@ -8,6 +8,8 @@
 
 import Foundation
 import UIKit
+import Parse
+import Bolts
 
 class User: NSObject {
     var name: String
