@@ -7,8 +7,8 @@
 //
 
 import UIKit
-import Bolts
-import Parse
+//import Bolts
+//import Parse
 
 class MainTableViewController: UITableViewController {
 
