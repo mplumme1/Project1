@@ -46,6 +46,4 @@ class Connection: NSObject {
     }
 }
 
-class ExerciseList: NSObject {
-    
-}
+let onlyUser = User(name:"Plummer", password:"Matt")
