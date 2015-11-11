@@ -5,7 +5,7 @@
 //  Created by Kara Vitale on 11/10/15.
 //  Copyright © 2015 Matthew Plummer. All rights reserved.
 //
-
+/*
 import Foundation
 import Bolts
 import Parse
@@ -53,3 +53,5 @@ if currentUser != nil {
 } else {
     // Show the signup or login screen
 }
+
+*/
