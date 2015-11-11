@@ -44,8 +44,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		40F389E91BF23D7B0080B2DD /* Bolts.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Bolts.framework; path = "../../Downloads/parse-library-1/Bolts.framework"; sourceTree = "<group>"; };
-		40F389EB1BF23D8B0080B2DD /* Parse.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Parse.framework; path = "../../Downloads/parse-library-1/Parse.framework"; sourceTree = "<group>"; };
 		40F389ED1BF23DC00080B2DD /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
 		40F389EF1BF23DC60080B2DD /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
 		40F389F11BF23DD00080B2DD /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -58,7 +56,6 @@
 		40F389FF1BF23E0E0080B2DD /* libsqlite3.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libsqlite3.tbd; path = usr/lib/libsqlite3.tbd; sourceTree = SDKROOT; };
 		40F38A011BF23E150080B2DD /* Accounts.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Accounts.framework; path = System/Library/Frameworks/Accounts.framework; sourceTree = SDKROOT; };
 		40F38A031BF23E1B0080B2DD /* Social.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Social.framework; path = System/Library/Frameworks/Social.framework; sourceTree = SDKROOT; };
-		40F38A061BF242F90080B2DD /* Project1 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Project1; sourceTree = "<group>"; };
 		40F38A081BF2430D0080B2DD /* Bolts.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Bolts.framework; path = "parse-library-1/Bolts.framework"; sourceTree = "<group>"; };
 		40F38A091BF2430D0080B2DD /* Parse.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Parse.framework; path = "parse-library-1/Parse.framework"; sourceTree = "<group>"; };
 		40F38A0C1BF245690080B2DD /* UserSignUpCode.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserSignUpCode.swift; sourceTree = "<group>"; };
@@ -114,7 +111,6 @@
 			children = (
 				40F38A081BF2430D0080B2DD /* Bolts.framework */,
 				40F38A091BF2430D0080B2DD /* Parse.framework */,
-				40F38A061BF242F90080B2DD /* Project1 */,
 				40F38A031BF23E1B0080B2DD /* Social.framework */,
 				40F38A011BF23E150080B2DD /* Accounts.framework */,
 				40F389FF1BF23E0E0080B2DD /* libsqlite3.tbd */,
@@ -127,8 +123,6 @@
 				40F389F11BF23DD00080B2DD /* CoreGraphics.framework */,
 				40F389EF1BF23DC60080B2DD /* CFNetwork.framework */,
 				40F389ED1BF23DC00080B2DD /* AudioToolbox.framework */,
-				40F389EB1BF23D8B0080B2DD /* Parse.framework */,
-				40F389E91BF23D7B0080B2DD /* Bolts.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
